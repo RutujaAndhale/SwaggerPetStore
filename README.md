@@ -13,7 +13,7 @@ This is a FastAPI-based project that provides an API with database integration.
 
 ## Overview
 
-My Web Application is designed to [briefly describe the purpose of your application, e.g., manage tasks, provide a RESTful API, etc.]. It allows users to [list key functionalities, e.g., create, read, update, and delete items].
+This FastAPI project provides a RESTful API with database integration. The project appears to be structured with a modular design, supporting efficient API development..
 
 ## Features
 
