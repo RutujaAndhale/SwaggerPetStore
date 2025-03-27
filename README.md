@@ -1,4 +1,4 @@
-# SwaggerPetStore
+# FastAPI_Project
 
 This is a FastAPI-based project that provides an API with database integration.
 
